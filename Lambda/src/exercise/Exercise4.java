@@ -26,6 +26,6 @@ public class Exercise4 {
           }
       }*/
      list.removeIf(ele -> ele.getAge()>22);
-        System.out.println(list);
+        System.out.print(list);
     }
 }
